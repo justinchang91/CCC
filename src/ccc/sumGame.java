@@ -1,6 +1,7 @@
 /*
 Sept 23, 2017
 Competition: 2017
+http://www.cemc.uwaterloo.ca/contests/computing/2017/stage%201/seniorEF.pdf
 
 The season lasted for N days. 
 Both teams played exactly one game on each day.
