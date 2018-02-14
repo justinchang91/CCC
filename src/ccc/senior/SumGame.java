@@ -4,7 +4,7 @@ Feb 11, 2018
 1.0
 This program looks at sums
  */
-package ccc;
+package ccc.senior;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

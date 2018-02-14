@@ -7,7 +7,7 @@ http://www.cemc.uwaterloo.ca/contests/computing/2013/stage1/seniorEn.pdf
 
 
  */
-package ccc;
+package ccc.senior;
 
 import java.util.Scanner;
 
